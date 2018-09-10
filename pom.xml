@@ -66,6 +66,12 @@
 			<artifactId>sqlite-dialect</artifactId>
 			<version>1.0</version>
 		</dependency>
+
+		<dependency>
+			<groupId>io.jenetics</groupId>
+			<artifactId>jpx</artifactId>
+			<version>1.4.0</version>
+		</dependency>
 	</dependencies>
 
 	<build>
